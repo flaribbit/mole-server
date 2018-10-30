@@ -8,8 +8,8 @@ var server = http.createServer(function(request, response) {
     response.writeHead(404);
     response.end();
 });
-server.listen(8686, function() {
-    console.log((new Date()) + ' Server is listening on port 8686');
+server.listen(4000, function() {
+    console.log((new Date()) + ' Server is listening on port 4000');
 });
 //域名过滤
 function originIsAllowed(origin) {
