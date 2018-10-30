@@ -1,0 +1,6 @@
+{
+  "name": "mole-server",
+  "description": "null",
+  "repository": "https://github.com/heroku-examples/node-websockets",
+  "keywords": ["node", "websocket"]
+}
